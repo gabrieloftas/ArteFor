@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Search" />
+    <string name="Menu" />
+    <string name="abstrata_content_description" />
+</resources>
