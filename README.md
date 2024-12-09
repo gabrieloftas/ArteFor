@@ -39,3 +39,9 @@ Promover uma experiência inclusiva e eficiente tanto para os visitantes quanto 
 ---
 
 Sinta-se à vontade para sugerir melhorias ou relatar problemas no [repositório](#).
+
+---
+## Integrantes:
+### Gabriel Oliveira de Freitas
+### Marcus Vinícius Herbster Ferreira
+### Raimundo Ferreira Marques Neto
